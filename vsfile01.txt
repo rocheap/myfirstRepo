@@ -1,0 +1,2 @@
+vsfile01.txt
+test vscode
